@@ -1,0 +1,23 @@
+{
+  "name": "Kutopia",
+  "short_name": "Kutopia",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "display_override": [
+    "fullscreen",
+    "standalone"
+  ],
+  "orientation": "portrait",
+  "background_color": "#25382d",
+  "theme_color": "#25382d",
+  "icons": [
+    {
+      "src": "kutopia-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
